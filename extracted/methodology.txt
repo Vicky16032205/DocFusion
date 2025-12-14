@@ -1,0 +1,10 @@
+{
+    "Methodology": {
+        "cnn5": [
+            {
+                "text": "Layer Output Size Kernel Filters Activation  IV. EXPERIMENTAL RESULTS ",
+                "similarity": 0.0
+            }
+        ]
+    }
+}

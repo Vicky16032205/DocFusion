@@ -1,0 +1,7 @@
+
+You are an expert in academic writing. Generate a clear, concise figure caption.
+
+Figure Description: "Layer Output Size Kernel Filters Activation  IV. EXPERIMENTAL RESULTS "
+
+Output Format: One or two sentence caption.
+        

@@ -1,0 +1,10 @@
+
+I am providing a JSON containing text excerpts that match a user's query with a similarity score of 0.85 or higher. Your task is to generate concise, well-structured, and contextually relevant headings, sub-headings, and summaries based on this content.
+
+### Input:
+[]
+
+### Output Format:
+- Use Markdown headings (##) and sub-headings (###)
+- Ensure summaries are clear, concise, and relevant
+        
