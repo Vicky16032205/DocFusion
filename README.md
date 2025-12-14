@@ -68,7 +68,7 @@ The project uses Milvus as a vector database, which requires running several ser
 
 #### On Windows (PowerShell or Command Prompt)
 
-```bash
+```cmd
 docker-compose up -d
 ```
 
@@ -97,7 +97,7 @@ You should see three containers running:
 
 #### On Windows (PowerShell or Command Prompt)
 
-```bash
+```cmd
 pip install -r requirements.txt
 ```
 
@@ -110,7 +110,7 @@ pip install -r requirements.txt
 **Tip:** It's recommended to use a virtual environment:
 
 **Windows:**
-```bash
+```cmd
 python -m venv venv
 venv\Scripts\activate
 pip install -r requirements.txt
